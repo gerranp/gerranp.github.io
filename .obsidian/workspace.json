@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cv.md",
+                "file": "projects.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "cv"
+              "title": "projects"
             }
           }
         ]
@@ -185,8 +185,8 @@
   },
   "active": "623082811ce99002",
   "lastOpenFiles": [
-    "projects.md",
     "cv.md",
+    "projects.md",
     "_site/README.md",
     "_site/cv.md"
   ]

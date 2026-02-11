@@ -3,7 +3,7 @@ layout: page
 title: Projects
 permalink: /projects/
 ---
-## [RaVIOLi](https://gerranp.github.io/ravioli)
+## [RaVIOLi](https://github.com/gerranp/ravioli)
 Created as part of a coursework project, the Random Variables Inferences and Operations Library uses custom classes and operand overloading to provide an intuitive way to manipulate statistical distributions, closely reflecting standard mathematical syntax. This provides those with minimal programming experience to begin using Python for statistical manipulation.
 
 ## [BusFares](https://gerranp.github.io/busfares)
