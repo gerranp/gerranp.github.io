@@ -1,0 +1,39 @@
+---
+layout: page
+title: Curriculum Vitae
+lang: cy
+permalink: /cv/
+---
+
+### ADDYSG
+
+#### MMORS Meistr Integredig Mathemateg, Ymchwil Weithrediadol ac Ystadegaeth, Prifysgol Caerdydd [2024 – Sydd Ohoni]
+
+#### Safonau Uwch, Truro & Penwith College [2022 - 2024]
+
+#### GCSEs, Richard Lander School [2017 - 2022]
+
+
+### PROFIAD
+
+#### Tiwtor Mathemateg, We Solve Problems [Maw 2025 - Sydd Ohoni]
+
+#### Llysgennad Myfyrwyr, Prifysgol Caerdydd [Meh 2025 - Sydd Ohoni]
+
+#### Gweithiwr Warws, Argos [Gor 2025 - Ion 2026]
+
+#### Cynghorydd Cwsmeriaid, Argos [Aws 2022 - Med 2024]
+
+
+### CYFRIFOLDEBAU
+
+#### Cynrychiolydd Cynaladwyedd, Prifysgol Caerdydd [2025 - Sydd Ohoni]
+
+#### Mentor Myfyrwyr, Prifysgol Caerdydd [2025-2026]
+
+#### Ysgrifennydd [2025 – 2026], <br>Swyddog Lles [2025-2025], <br>Is-Lywydd [2024-2025], Cymdeithas Mathemateg Prifysgol Caerdydd
+
+#### Ysgrifennydd [2025 – 2026], <br>Swyddog Ysgraff [2024 - 2025], Clwb Tanddŵr Prifysgol Caerdydd
+
+#### Cynrychiolydd Academaidd Myfyrwyr, Ysgol Mathemateg Prifysgol Caerdydd [2024 - 2026]
+
