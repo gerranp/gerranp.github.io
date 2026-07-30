@@ -1,3 +1,7 @@
+:root {
+	color-scheme: light dark;
+}
+
 @charset "utf-8";
 
 // Define defaults for each variable.
@@ -10,8 +14,8 @@ $base-line-height: 1.5 !default;
 
 $spacing-unit:     30px !default;
 
-$text-color:       #111 !default;
-$background-color: #fdfdfd !default;
+$text-color:       #111111 !default;
+$background-color: #fefefe !default;
 $brand-color:      #2a7ae2 !default;
 
 $grey-color:       #828282 !default;
@@ -47,5 +51,6 @@ $on-laptop:        800px !default;
 @import
   "minima/base",
   "minima/layout",
-  "minima/syntax-highlighting"
+  "minima/syntax-highlighting",
+  "customs"
 ;

@@ -1,0 +1,21 @@
+<script>  
+var welcome;  
+var date = new Date();  
+var hour = date.getHours();  
+var minute = date.getMinutes();  
+var second = date.getSeconds();  
+if (minute < 10) {  
+    minute = "0" + minute;  
+}  
+if (second < 10) {  
+    second = "0" + second;  
+}  
+if (hour < 12) {  
+    welcome = "{{ site.data.strings.greeting.morning }}";  
+} else if (hour < 17) {  
+    welcome = "{{ site.data.strings.greeting.afternoon }}";  
+} else {  
+    welcome = "{{ site.data.strings.greeting.evening }}";  
+}  
+document.write("<h2>" + welcome + "!" + "</h2>"); 
+</script>

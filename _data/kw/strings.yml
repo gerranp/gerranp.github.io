@@ -1,2 +1,6 @@
 site-language: "Yeth Gwiasva"
-no-translation: "Sorry, this page is not available in Cornish."
+no-translation: "Diharesow! This page is not available in Cornish."
+greeting:
+  morning: "Myttin da"
+  afternoon: "Dohajydh da"
+  evening: "Gorthugher da"

@@ -1,2 +1,6 @@
 site-language: "Iaith Gwefan"
-no-translation: "Sorry, this page is not available in Welsh."
+no-translation: "Sorri! This page is not available in Welsh."
+greeting:
+  morning: "Bore Da"
+  afternoon: "Prynhawn Da"
+  evening: "Noswaith Dda"
