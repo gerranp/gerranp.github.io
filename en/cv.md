@@ -23,6 +23,8 @@ permalink: /cv/
 
 ### EXPERIENCE
 
+#### Undergraduate Analyst, NHS Wales [August 2026 - Present]
+
 #### Mathematics Tutor, We Solve Problems [Mar 2025 - Present]
 - Tutoring groups of high-ability secondary students with concepts beyond the curriculum to nurture their enjoyment of the subject.
 - Help students to learn effectively by simplifying concepts and developing personal strategies to enhance engagement and learning.

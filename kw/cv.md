@@ -16,6 +16,8 @@ permalink: /cv/
 
 ### PREVYANS
 
+#### Dielvennyas Isradhek, NHS Kembra [Est 2026 - A-lemmyn]
+
 #### Dyskadores Awgrym, We Solve Problems [Mer 2025 - A-lemmyn]
 
 #### Kannas Studhyoryon, Pennskol Kerdydh [Meth 2025 - A-lemmyn]

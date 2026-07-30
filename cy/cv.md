@@ -16,6 +16,8 @@ permalink: /cv/
 
 ### PROFIAD
 
+#### Dadansoddwr Israddedig, GIG Cymru [Aws 2026 - Sydd Ohoni]
+
 #### Tiwtor Mathemateg, We Solve Problems [Maw 2025 - Sydd Ohoni]
 
 #### Llysgennad Myfyrwyr, Prifysgol Caerdydd [Meh 2025 - Sydd Ohoni]
