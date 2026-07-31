@@ -24,6 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   MORS Undergraduate at Cardiff University, Mathematics Tutor at We Solve Problems.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://gerranp.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+orcid_id: 0009-0003-5699-1472
 github_username:  gerranp
 linkedin_username: gerran-parker
 

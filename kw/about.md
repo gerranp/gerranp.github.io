@@ -3,6 +3,7 @@ layout: page
 title: About
 lang: kw
 permalink: /about/
+page_id: about
 ---
 
 Hello World!

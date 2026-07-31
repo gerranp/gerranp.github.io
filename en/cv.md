@@ -3,6 +3,7 @@ layout: page
 title: Curriculum Vitae
 lang: en
 permalink: /cv/
+page_id: cv
 ---
 
 ### EDUCATION

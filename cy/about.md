@@ -3,6 +3,7 @@ layout: page
 title: About
 lang: cy
 permalink: /about/
+page_id: about
 ---
 
 Helo Byd!

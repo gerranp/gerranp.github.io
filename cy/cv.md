@@ -3,6 +3,7 @@ layout: page
 title: Curriculum Vitae
 lang: cy
 permalink: /cv/
+page_id: cv
 ---
 
 ### ADDYSG

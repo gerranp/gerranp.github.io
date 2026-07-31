@@ -1,7 +1,3 @@
-:root {
-	color-scheme: light dark;
-}
-
 @charset "utf-8";
 
 // Define defaults for each variable.
@@ -20,13 +16,48 @@ $base-line-height: 1.5 !default;
 
 $spacing-unit:     30px !default;
 
-$text-color:       #111111 !default;
-$background-color: #fefefe !default;
-$brand-color:      #2a7ae2 !default;
 
-$grey-color:       #828282 !default;
-$grey-color-light: lighten($grey-color, 40%) !default;
-$grey-color-dark:  darken($grey-color, 25%) !default;
+// Light and dark mode colours - will switch all to css at some point
+
+:root,
+[data-theme="light"] {
+  --text-color: #222222;
+  --bg-color: #f4ffe4;
+  --hf-color: #DDEECC ;
+  --brand-color: #a1356b;
+  --brand-color-dark: #9c3468;
+  --grey-color:       #888888;
+  --grey-color-light: #aaaaaa;
+  --grey-color-dark:  #666666; 
+}
+
+[data-theme="dark"] {
+  --text-color: #DDDDDD;
+  --bg-color: #381030;
+  --hf-color: #482040;
+  --brand-color: #93ac64;
+  --brand-color-dark: #99b85f;
+  --grey-color:       #aaaaaa;
+  --grey-color-light: #888888;
+  --grey-color-dark:  #cccccc; 
+}
+
+html,
+body,
+.page-content,
+{
+  background-color: var(--bg-color) !important;
+  color: var(--text-color) !important;
+  transition: 0.4s ease, color 0.4s ease;
+}
+
+.site-header,
+.site-footer,
+{
+  background: var(--hf-color) !important;
+  transition: 0.4s ease, color 0.4s ease;
+}
+
 
 $table-text-align: left !default;
 
