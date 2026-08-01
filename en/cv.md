@@ -9,7 +9,7 @@ page_id: cv
 ### EDUCATION
 
 #### MMORS Mathematics, Operational Research, and Statistics Integrated Masters, Cardiff University [2024 – Present]
-- Second-year student working at a 2:1.
+- Working at a 2:1; currently on placement.
 - Modules taken include Foundations of Mathematics, Foundations of Probability and Statistics, Computational Statistics, Operational Research, Modelling with Differential Equations.
 - Extracurriculars including Scuba Diving Club, Drama Society, Student Academic Rep, Student Mentor, Cardiff Award.
 
@@ -19,7 +19,7 @@ page_id: cv
 - Additional Qualifications include: Advanced Extension Award (Merit), MS Excel Intermediate, DofE Gold Award.
 
 #### GCSEs, Richard Lander School [2017 - 2022]
-- 9x Grade 9, 1x Grade 8, 1x D* (Distinction Star).
+- 9× Grade 9, 1× Grade 8, 1× D* (Distinction Star).
 
 
 ### EXPERIENCE

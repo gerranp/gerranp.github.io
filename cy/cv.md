@@ -9,10 +9,13 @@ page_id: cv
 ### ADDYSG
 
 #### MMORS Meistr Integredig Mathemateg, Ymchwil Weithrediadol ac Ystadegaeth, Prifysgol Caerdydd [2024 – Sydd Ohoni]
+- Yn gweithio yn 2:1. Rydw i ar leoliad ar hyn o bryd.
 
 #### Safonau Uwch, Truro & Penwith College [2022 - 2024]
+- Mathemateg (A), Cemeg (B), Ffiseg (B), Mathemateg Bellach (C)
 
-#### GCSEs, Richard Lander School [2017 - 2022]
+#### TGAU, Richard Lander School [2017 - 2022]
+- 9× Gradd 9, 1× Gradd 8, 1× Gradd Rh* (Rhagoriaeth Seren)
 
 
 ### PROFIAD

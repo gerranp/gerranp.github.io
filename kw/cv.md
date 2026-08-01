@@ -9,11 +9,13 @@ page_id: cv
 ### ADHYSKANS
 
 #### MMORS Mestrysi Ewngemyskys Awgrym, Hwithrans Oberyans ha Statystek, Pennskol Kerdydh [2024 – A-lemmyn]
+- Oberi yn Gradh 2:1. Y'n eur ma, owth oberi ov y.
 
 #### A Levels, Truro & Penwith College [2022 - 2024]
+- Awgrym (A), Kymygieth (B), Pysegieth (B). Awgryn Pella (C)
 
 #### GCSEs, Richard Lander School [2017 - 2022]
-
+- 9× Gradh 9, 1× Gradh 8, 1× D* (Bryntinses Steren).
 
 ### PREVYANS
 
