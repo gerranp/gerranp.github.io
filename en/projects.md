@@ -6,4 +6,4 @@ permalink: /projects/
 page_id: projects
 ---
 
-[Bus Fare Calculator](https://gerranp.github.io/busfares/)
+[Bus Fare Calculator](https://gerran.org/busfares)
