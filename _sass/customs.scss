@@ -9,6 +9,9 @@
 
 .home-flags {
   height: $base-font-size;
+  @include media-query($on-palm) {
+    height: $base-font-size;
+  }
 }
 
 .home-column {

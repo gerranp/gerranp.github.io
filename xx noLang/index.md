@@ -23,6 +23,6 @@ page_id: index
 
     <div class="home-column" id="column3">
     <img class="home-flags" src="/assets/Flag_Cornwall.png"/>
-    Ow hanow yw Gerran, studhyer isradhek neb yw studhya Awgrym, Hwithrans Oberyans ha Statystek yn Pennskol Kerdydh ha Dielvennyas Isradhek yn Gwrythyans ha Gwellheans NHS Kembra. Dynnargh dhe ow gwiasva!
+    Ow hanow yw Gerran, studhyer isradhek neb yw studhya Awgrym, Hwithrans Oberyans ha Statystek yn Pennskol Kerdydh, ha Dielvennyas Isradhek yn Gwrythyans ha Gwellheans GYK Kembra. Dynnargh dhe ow gwiasva!
     </div>
 </div>
