@@ -7,15 +7,19 @@
     text-align: center;
 }
 
-.column {
-    float: left;
-    width: 50%;
-    }
+.home-flags {
+  height: $base-font-size;
+}
 
-.row:after {
-    content: "";
-    display: table;
-    clear: both;
+.home-column {
+  float:left;
+  margin-right: 1%;
+  width:32%;
+  @include media-query($on-palm) {
+    float:none;
+    width: 100%;
+    padding-bottom: 10px;
+  }
 }
 
 .header-buttons {
