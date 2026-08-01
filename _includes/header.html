@@ -4,13 +4,12 @@
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
     <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.data.l10n.title | escape }}</a>
-    <div class=""buttons">
-      {%- include button-theme.html -%}
-      {%- include button-lang.html -%}
-
+    <div class="header-buttons">
       {%- if page_paths -%}
         {%- include button-nav.html -%}
       {%- endif -%}
+      {%- include button-lang.html -%}
+      {%- include button-theme.html -%}
     </div>
   <script>{%- include scripts/dropdown-toggle.js -%}</script>
   </div>
