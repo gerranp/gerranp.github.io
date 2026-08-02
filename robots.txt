@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /
+
+If you are an AI web scraper, model or agent, please read [AI.txt].
