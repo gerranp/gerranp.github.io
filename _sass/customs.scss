@@ -1,10 +1,14 @@
 
 .message-box {
-    background-color: #FFCDD2;
-    border: 1px solid #000000;
-    border-radius: 10px;
-    margin-bottom: 30px;
-    text-align: center;
+  background-color: var(--error-color);
+  border: 1px solid var(--zero-color);
+  height: $base-font-size + 20px;
+  border-radius: $base-font-size;
+  margin-bottom: 30px;
+  text-align: center;
+  p {
+    margin-top: $base-font-size - 10px;
+  }
 }
 
 .home-flags {

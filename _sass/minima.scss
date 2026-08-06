@@ -28,7 +28,9 @@ $spacing-unit:     30px !default;
   --brand-color-dark: #9c3468;
   --grey-color:       #888888;
   --grey-color-light: #aaaaaa;
-  --grey-color-dark:  #666666; 
+  --grey-color-dark:  #666666;
+  --error-color: #DDAAAA;
+  --zero-color: #000000;
 }
 
 [data-theme="dark"] {
@@ -39,7 +41,9 @@ $spacing-unit:     30px !default;
   --brand-color-dark: #99b85f;
   --grey-color:       #aaaaaa;
   --grey-color-light: #888888;
-  --grey-color-dark:  #cccccc; 
+  --grey-color-dark:  #cccccc;
+  --error-color: #995555;
+  --zero-color: #aaaaaa;
 }
 
 html,
