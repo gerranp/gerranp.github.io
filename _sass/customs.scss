@@ -1,13 +1,22 @@
 
 .message-box {
-  background-color: var(--error-color);
-  border: 1px solid var(--zero-color);
-  height: $base-font-size + 20px;
+  display: flex;
+  width: auto;
   border-radius: $base-font-size;
   margin-bottom: 30px;
-  text-align: center;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
   p {
-    margin-top: $base-font-size - 10px;
+    margin-bottom: 0px;
+  }
+  &.error {
+    background-color: var(--error-color);
+    border: 1px solid var(--zero-color);
+  }
+  &.warning {
+    background-color: var(--warning-color);
+    border: 1px solid var(--zero-color);
   }
 }
 

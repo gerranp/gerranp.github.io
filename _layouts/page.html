@@ -10,6 +10,9 @@ layout: default
     {%- if page.lang != site.active_lang -%}
       {%- include no-translation.html -%}
     {%- endif -%}
+    {%- if page.part-translated == 1 -%}
+      {%- include part-translation.html -%}
+    {%- endif -%}
     <h1 class="post-title">{{ page.title | escape }}</h1>
   </header>
 

@@ -4,6 +4,7 @@ title: Curriculum Vitae
 lang: kw
 permalink: /cv/
 page_id: cv
+part-translated: 1
 ---
 
 ### ADHYSKANS
